@@ -1,5 +1,5 @@
 # Google colab-image-classification-one-click
-colab image classification 
+colab image classification -can use for any classification model 
 
 simple CNN model 
 
