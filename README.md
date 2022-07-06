@@ -3,4 +3,4 @@ colab image classification
 
 simple CNN model 
 
-just open in co lab and run --ony for study purpose 
+just open in colab and run only for study purpose 
