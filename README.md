@@ -1,6 +1,6 @@
-# Google colab-image-classification-one-click
+# Google colab-image-classification- custom - data- one-click
 colab image classification -can use for any classification model 
 
 simple CNN model 
 
-just open in colab and run only for study purpose 
+just open with colab and run.... only for study purpose 
